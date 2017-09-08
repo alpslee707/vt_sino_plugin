@@ -1,5 +1,7 @@
 # vt_sino_plugin
 
+适合初学者
+
 windows环境下 kibana5.5.2 插件开发
 
 柱形图
